@@ -1,1 +1,1 @@
-# Data-science-projects
+# Project list
