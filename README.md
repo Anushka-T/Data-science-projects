@@ -1,6 +1,6 @@
 # Data Science Portfolio
 
-A repository containing my data science projects, presented as iPython Notebooks. Where possible, data used in the project and models created by me have also been shared. 
+A repository containing my data science and machine learning projects. Where possible, data used in the project and models created by me have also been shared. 
 
 ## Project list
 
@@ -10,6 +10,13 @@ A repository containing my data science projects, presented as iPython Notebooks
 - **Summary**: Malaria is traditionally diagnosed by microscopic examination of blood smear slides. Here, I design a pipeline that can automatically detect and identify infected red blood cells in microscopy images and output diagnostic and other clinically relevant information.
 - **Learnt**: how to fine-tune a pretrained DEtection TRansformer (DETR) model and create a custom convolutional neural network to solve an object detection and classification task 
 - **Tools**: PyTorch, object-oriented programming (OOP), imgaug and cv2
+
+### [Drug mechanisms of action](https://github.com/AnushkaThawani/Data-Science-Portfolio/tree/main/Malaria_detect_classify)
+
+- **Area**: cheminfomatics
+- **Summary**: Tuberculosis (TB) is an infectious disease caused by Mycobacterium tuberculosis and is one of the top ten causes of death worldwide. In this study, I explore the relationship between chemical structure and mechanism of action.
+- **Learnt**: how to extract meaningful information from noisy dose-response data and how to convert SMILES information into Morgan fingerprints.
+- **Tools**: RDKit, UMAP
 
 ### [Wikipedia comment moderator](https://github.com/AnushkaThawani/Data-Science-Portfolio/tree/main/Wikipedia_comment_moderator)
 
