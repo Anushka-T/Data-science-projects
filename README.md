@@ -13,7 +13,7 @@ A repository containing my data science and machine learning projects. Where pos
 
 ### [Drug mechanisms of action](https://github.com/AnushkaThawani/Data-Science-Portfolio/tree/main/Cheminformatics)
 
-- **Area**: cheminfomatics
+- **Area**: cheminformatics
 - **Summary**: Tuberculosis (TB) is an infectious disease caused by Mycobacterium tuberculosis and is one of the top ten causes of death worldwide. In this study, I explore the relationship between chemical structure and mechanism of action.
 - **Learnt**: how to extract meaningful information from noisy dose-response data and how to convert SMILES information into Morgan fingerprints.
 - **Tools**: RDKit, UMAP
